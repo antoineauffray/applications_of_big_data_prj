@@ -1,0 +1,15 @@
+artifact_uri: file:///home/solenya/Documents/EFREI/applications_of_big_data/project/mlruns/0/268b3fc8f97a40aaa5377ae03e20df6a/artifacts
+end_time: 1604401016664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 268b3fc8f97a40aaa5377ae03e20df6a
+run_uuid: 268b3fc8f97a40aaa5377ae03e20df6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1604400971544
+status: 3
+tags: []
+user_id: solenya
